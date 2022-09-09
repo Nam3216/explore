@@ -1,0 +1,147 @@
+.category-item{
+    width: 290px;
+    display: inline-block;
+    margin: 0  auto;
+    margin-bottom: 50px;
+   opacity: 0.8;
+    
+}
+
+.category-item:hover{
+    opacity: 1;
+
+
+}
+
+.category-item-ok{
+    width: 250px;
+    height: fit-content;
+    margin: 0 auto;
+    
+    
+    
+}
+
+.category-item-text{
+    background-color: rgb(51, 49, 49);
+    border-radius: 10px;
+    padding: 15px;
+    text-align: left;
+    margin: 0 auto;
+    border: 1px solid #0755a3 ;
+    
+}
+
+.category-item-text p{
+    margin-bottom: 5px;
+    margin-left: 25px;
+}
+
+.category-item img{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid #0755a3 ;
+}
+
+/*---------------detail---------------------*/
+.detail-item{
+    width: 60vw;
+    margin: 0px auto;
+    
+   /* height: fit-content;*/
+    
+
+}
+
+.detail-item img{
+    width: 60vw;
+    height: 300px;
+    object-fit: cover;
+    border: 1px solid #0755a3 ;
+   
+
+    
+}
+
+.detail-item-info{
+    margin-top: 60px;
+    text-align: left;
+    background-color: rgb(51, 49, 49);
+    padding: 15px;
+    width: 60vw;
+    border: 1px solid #0755a3 ;
+    margin: 0 auto;
+   
+    
+}
+
+input{
+    width: 40px;
+}
+
+.detail-item-info-ok{
+   /* height: 250px;*/
+}
+.detail-item-info p{
+    margin-bottom: 10px;
+}
+
+.trip-title{
+    background-size: 90vw;
+}
+
+@media screen and (min-width: 1000px) {
+
+    .detail-item{
+        width: 1000px;
+        display: flex;
+        margin: 0px auto;
+        
+        
+        
+    
+    }
+    
+    .detail-item img{
+        width: 350px;
+        height: 350px;
+        object-fit: cover;
+        margin-right: 50px;
+    }
+
+    .detail-item-info{
+        margin-top: 0;
+        text-align: left;
+        border: 1px solid #0755a3 ;
+        width: 600px;
+       
+    }
+
+    .detail-item-info p{
+        margin-bottom: 10px;
+    }
+
+    .trip-title{
+        background-size: 1000px;
+    }
+
+}
+/*
+@media screen and (min-width: 1100px) {
+    .detail-item{
+        width: 1100px;
+        display: flex;
+        margin: 0px auto;
+        margin: 0 auto;
+        
+        
+        
+    
+    }
+    .trip-title{
+        background-size: 1100px;
+    }
+
+}*/

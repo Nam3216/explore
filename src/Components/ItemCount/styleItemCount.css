@@ -1,0 +1,18 @@
+.itemcount{
+   
+    
+}
+
+.itemcount p,h4{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.button-op{
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.button-op:hover{
+    color: #0755a3;
+}

@@ -1,0 +1,87 @@
+.experiences-container{
+ 
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
+
+}
+
+.experiences-container2{
+   /* display: flex;*/
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.experiences-img img{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.experiences-text{
+   max-width: 280px;
+    /*background-color: pink;*/
+   /* padding-left: 50px;*/
+    
+    
+}
+
+.experiences-text-p{
+    height: 200px;
+    
+}
+
+.avatar{
+    
+   display: flex;
+   justify-content: center;
+}
+
+@media screen and (min-width: 1000px) {
+
+    .experiences-container{
+ 
+        margin: 0 auto;
+        text-align: center;
+        background-color: black;
+    
+    }
+    
+    .experiences-container2{
+        display: flex;
+        width: fit-content;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    
+    .experiences-img img{
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+        border: 1px solid #0755a3 ;
+    }
+    
+    .experiences-text{
+        max-width: 480px;
+        /*background-color: pink;*/
+        padding-left: 50px;
+        
+        
+    }
+    
+    .experiences-text-p{
+        height: 200px;
+        
+    }
+    
+    .avatar{
+        
+       display: flex;
+       justify-content: center;
+    }
+
+
+
+
+}

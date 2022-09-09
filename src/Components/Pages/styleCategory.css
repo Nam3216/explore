@@ -1,0 +1,36 @@
+.category-container{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+.trip-title{
+  /*  background-image: url("moonok.gif");*/
+    max-width: 1300px;
+    height: 202px;
+   
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+.trip-container{
+   
+}
+
+.trip-title{
+    background-size: 90vw;
+}
+
+@media screen and (min-width: 1100px) {
+    .category-container{
+        text-align: center;
+        margin-top: 0;
+        
+    }
+
+    .trip-title{
+        background-size: 1100px;
+    }
+
+}

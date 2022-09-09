@@ -1,0 +1,104 @@
+
+
+
+.item-destiny-container{
+    margin:0 auto;
+    text-align: center;
+    
+}
+
+.item-destiny-container h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 30px;
+
+}
+
+.item-destiny-init{
+    margin: 0 auto;
+    text-align: center;
+   /* display: flex;*/
+    
+}
+
+.item-destiny-init-img{
+    margin: 0 auto;
+}
+
+.item-destiny-init-img img{
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 250px;
+}
+
+.item-destiny-init-text{
+    width: 250px;
+    margin: 0 auto;
+}
+
+#img-init{
+    margin-top: 80px;
+    width: 80vw;
+}
+
+@media screen and (min-width: 1000px) {
+    #img-init{
+        margin-top: 0;
+        width: 80vw;
+    }
+    .item-destiny-container{
+  
+        text-align: center;
+    }
+    
+    .item-destiny-container h3{
+        font-size: 40px;
+        font-weight: 600;
+        color: white;
+        margin-bottom: 50px;
+        margin-top: 0;
+    }
+    
+    .item-destiny-init{
+        margin: 0 auto;
+        display: flex;
+        
+        width: fit-content;
+        
+    }
+    
+   
+    .item-destiny-init-img img{
+        width: 350px;
+        display: block;
+        margin-top: 20px;
+        height: 250px;
+        object-fit: cover;
+    }
+    
+    .item-destiny-init-text{
+        width: 450px;
+        text-align: center;
+        padding: 20px;
+        height: 500px;
+       
+       
+    }
+
+    .links-container button{
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    .links-container{
+        margin-top: 30%;
+       
+    }
+
+
+}

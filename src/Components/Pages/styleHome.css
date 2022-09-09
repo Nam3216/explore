@@ -1,0 +1,60 @@
+.home-container{
+    text-align: center;
+    background-image: url("explore.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+   /* max-height: 800px;*/
+    background-position-x: center;
+   
+   
+}
+
+main{
+    min-height: 800px;
+}
+
+.init-home{
+    margin-top: 150px;
+    text-align: left; 
+}
+
+.init-home h3{
+   /* border-bottom:1px solid #0755a3 ; */
+   text-align: center;
+   
+    font-size: 30px;
+}
+.experiences-home{
+    margin-top: 150px;
+    text-align: left;
+    
+}
+.experiences-home h3{
+    border-bottom:1px solid #0755a3 ; 
+   
+    font-size: 30px;
+}
+
+/*
+.home-title{
+    background-image: url("intoindex.gif");
+    max-width: 1365px;
+    height: 212px;
+   
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+*/
+.home-init-container{
+    
+    
+    
+    
+}
+
+@media screen and (min-width: 1360px) {
+
+
+
+}

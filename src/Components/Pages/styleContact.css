@@ -1,0 +1,58 @@
+.form-contact input{
+    display: block;
+    width: 60vw;
+    margin-bottom: 30px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 30px;
+
+}
+
+textarea{
+    width: 60vw;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.button-send{
+    display: inline-block;
+}
+
+#trip-title-contact{
+    width: 100vw;
+   
+    height: 200px;
+    
+}
+
+@media screen and (min-width: 1000px) {
+
+    .form-contact input{
+        display: block;
+        width: 500px;
+        margin-bottom: 30px;
+        height: 50px;
+        margin: 0 auto;
+    
+    }
+    
+    textarea{
+        width: 500px;
+        height: 300px;
+    }
+    
+    .button-send{
+        display: inline-block;
+    }
+    
+    #trip-title-contact{
+        width: 100vw;
+       
+        height: 200px;
+        
+    }
+
+
+}
+
+

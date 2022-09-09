@@ -1,0 +1,42 @@
+.navbarok{
+   
+    position: fixed;
+    height: 50px;
+    
+}
+
+.navbarok a{
+    color: white;
+}
+
+.navbarok img{
+    height: 20px;
+}
+.navbarNormal img{
+    height: 20px;
+}
+
+.navbarNormal a{
+    color: white;
+}
+
+@media screen and (max-width: 400px) {
+    .navbarok img{
+        width: 80px;
+        object-fit: cover;
+    }
+
+    .navbarNormal img{
+        width: 80px;
+        object-fit: cover;
+    }
+
+    .navbarok p{
+       font-size: small;
+    }
+
+    .navbarNormal p{
+        font-size: small;
+    }
+
+}

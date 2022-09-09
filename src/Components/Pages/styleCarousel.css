@@ -1,0 +1,15 @@
+.carousel-container{
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+.carousel-container img{
+    max-height: 600px;
+    min-height: 300px;
+    border-radius: 30px;
+    margin: 0 auto;
+    object-fit: cover;
+
+}
+

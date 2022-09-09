@@ -1,0 +1,248 @@
+{
+    "id": 101,
+    "destiny": "Mars",
+
+    "price": 8000,
+    "offer": "no",
+    "transport": "Ares Premium",
+    "stay": "15 days",
+    "hotel": "Aldrin Base, All Inclusive",
+    "type": "All Inclusive",
+    "description":
+     "All Inclusive vacation where you will be able to spend 15 days on Mars surface. You will enjoy the modern accomodations of Aldrin Base, the number 1 hotel on Mars." ,
+    "category": "trips",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1395760/header.jpg?t=1632624560",
+    "passengers": 1
+
+  },
+  {
+    "id": 102,
+    "destiny": "Mars",
+
+    "price": 8000,
+    "offer": "no",
+    "transport": "Ares Premium",
+    "stay": "15 days",
+    "hotel": "Aldrin Base, All Inclusive",
+    "type": "All Inclusive",
+    "description":
+     "All Inclusive vacation where you will be able to spend 15 days on Mars surface. You will enjoy the modern accomodations of Aldrin Base, the number 1 hotel on Mars." ,
+    "category": "trips",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1395760/header.jpg?t=1632624560",
+    "passengers": 1 },
+  {
+    "id": 103,
+    "destiny": "Orbit",
+    "price": 1500,
+    "offer": "yes",
+    "transport": "Omega V",
+    "stay": "daytrip",
+    "hotel": "Space Shuttle 21 century",
+    "type": "All Inclusive",
+    "description":
+      "All Inclusive one day trip around our planet. Enjoy the most spectacular day of your life in an exclusive one day trip that will make all other days ordinary. ",
+    "category": "trips",
+    "img": "https://www.treehugger.com/thmb/B7aEVxysyX-16waA8vHYaOfn0DM=/1000x707/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__09__earth_orbit_climate-4101fe22e8a642a782dd12ae98497042.jpg",
+    "passengers": 1
+  },
+  {
+    "id": 104,
+    "destiny":"Moon",
+    "price": 5000,
+    "offer": "no",
+    "transport": "Saturn V deluxe",
+    "stay": "7 days",
+    "hotel": "Armstrong Inn",
+    "type": "Breakfast",
+    "description":
+      "All Inclusive vacation on the moon. You will have the chance to visit Mare Tranquillatis, take a picture as if you were Neil Armstrong or Buzz Aldrin in that first excursion to our satellite. Enjoy Apollo City and all of its diversity",
+    "category": "trips",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq6u3o-gFSUbruJ4opCWHVLTv3AqLzphJAw&usqp=CAU",
+    "passengers": 1
+  },
+  {
+    "id": 105,
+    "destiny": "Deep Space",
+    "price": 10000,
+    "offer": "no",
+    "transport": "Colony Ship",
+    "stay": "31 days",
+    "hotel": "Colony Ship",
+    "type": "All Inclusive",
+    "description":
+      "All Inclusive vacation. You will be a pioneer in this new adventure of our race. Start this journey to the limits of the known space and take a glance of the future. Be part of this new mankind crus"id"e, taking a vacation where no man has gone before ",
+    "category": "trips",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQU_ODrR-oAeps2Wvo11amfukAzpJPD_SDQ&usqp=CAU",
+    "passengers": 1
+  },
+  {
+    "id": 106,
+    "destiny": "Deep Space",
+    "price": 5000,
+    "offer": "no",
+    "transport": "Colony Ship",
+    "stay": "2 hours",
+    "hotel": "Colony Ship",
+    "type": "All Inclusive",
+    "description":
+      "Space Walk in the limit of known space. No more description needed. ",
+    "category": "trips",
+    "img": "https://as1.ftcdn.net/v2/jpg/02/22/36/34/1000_F_222363492_avRuajQAOEE9hJGCoCLmUWCoLNNDRrIs.jpg",
+    "passengers": 1
+  },
+  {
+    "id": 107,
+    "destiny": "Moon",
+    "price": 500,
+    "offer": "no",
+    "transport": "Saturn V deluxe",
+    "stay": "daylong",
+    "hotel": "Armstrong Inn",
+    "type": "Breakfast",
+    "description":
+      "Rover excursion to Mare Tranquillatis, Apollo 11 landing site. Get to see Neil Armstrong´s footprint. Departure 7 am from Armstrong Inn Lobby",
+    "category": "trips",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq6u3o-gFSUbruJ4opCWHVLTv3AqLzphJAw&usqp=CAU",
+    "passengers": 1
+  },
+  {
+    "id": 108,
+    "destiny": "Moon",
+    "price": 5000,
+    "offer": "no",
+    "transport": "Saturn V deluxe",
+    "stay": "7 days",
+    "hotel": "Armstrong Inn",
+    "type": "Breakfast",
+    "description":
+      "All Inclusive vacation on the moon. You will have the chance to visit Mare Tranquillatis, take a picture as if you were Neil Armstrong or Buzz Aldrin in that first excursion to our satellite. Enjoy Apollo City and all of its diversity",
+    "category": "trips",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq6u3o-gFSUbruJ4opCWHVLTv3AqLzphJAw&usqp=CAU",
+    "passengers": 1
+  },
+  {
+    "id": 109,
+    "destiny": "Moon",
+    "price": 5000,
+    "offer": "no",
+    "transport": "Saturn V deluxe",
+    "stay": "7 days",
+    "hotel": "Armstrong Inn",
+    "type": "Breakfast",
+    "description":
+      "All Inclusive vacation on the moon. You will have the chance to visit Mare Tranquillatis, take a picture as if you were Neil Armstrong or Buzz Aldrin in that first excursion to our satellite. Enjoy Apollo City and all of its diversity",
+    "category": "trips",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDq6u3o-gFSUbruJ4opCWHVLTv3AqLzphJAw&usqp=CAU",
+    "passengers": 1
+  },
+  {
+    "id": 110,
+    "destiny": "Deep Space",
+    "price": 5000,
+    "offer": "no",
+    "transport": "Colony Ship",
+    "stay": "2 hours",
+    "hotel": "Colony Ship",
+    "type": "All Inclusive",
+    "description":
+      "Space Walk in the limit of known space. No more description needed. ",
+    "category": "trips",
+    "img": "https://as1.ftcdn.net/v2/jpg/02/22/36/34/1000_F_222363492_avRuajQAOEE9hJGCoCLmUWCoLNNDRrIs.jpg",
+    "passengers": 1
+  },
+  {
+    "id": 111,
+    "destiny": "Deep Space",
+    "price": 5000,
+    "offer": "no",
+    "transport": "Colony Ship",
+    "stay": "2 hours",
+    "hotel": "Colony Ship",
+    "type": "All Inclusive",
+    "description":
+      "Space Walk in the limit of known space. No more description needed. ",
+    "category": "trips",
+    "img": "https://as1.ftcdn.net/v2/jpg/02/22/36/34/1000_F_222363492_avRuajQAOEE9hJGCoCLmUWCoLNNDRrIs.jpg",
+    "passengers": 1
+  },
+  {
+    "id": 112,
+    "destiny": "Orbit",
+    "price": 1500,
+    "offer": "yes",
+    "transport": "Omega V",
+    "stay": "daytrip",
+    "hotel": "Space Shuttle 21 century",
+    "type": "All Inclusive",
+    "description":
+      "All Inclusive one day trip around our planet. Enjoy the most spectacular day of your life in an exclusive one day trip that will make all other days ordinary. ",
+    "category": "trips",
+    "img": "https://www.treehugger.com/thmb/B7aEVxysyX-16waA8vHYaOfn0DM=/1000x707/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__09__earth_orbit_climate-4101fe22e8a642a782dd12ae98497042.jpg",
+    "passengers": 1
+  },
+  {
+    "id": 113,
+    "destiny": "Orbit",
+    "price": 1500,
+    "offer": "yes",
+    "transport": "Omega V",
+    "stay": "daytrip",
+    "hotel": "Space Shuttle 21 century",
+    "type": "All Inclusive",
+    "description":
+      "All Inclusive one day trip around our planet. Enjoy the most spectacular day of your life in an exclusive one day trip that will make all other days ordinary. ",
+    "category": "trips",
+    "img": "https://www.treehugger.com/thmb/B7aEVxysyX-16waA8vHYaOfn0DM=/1000x707/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__09__earth_orbit_climate-4101fe22e8a642a782dd12ae98497042.jpg",
+    "passengers": 1
+  },
+  {
+    "id": 114,
+    "destiny": "Mars",
+
+    "price": 8000,
+    "offer": "no",
+    "transport": "Ares Premium",
+    "stay": "15 days",
+    "hotel": "Aldrin Base, All Inclusive",
+    "type": "All Inclusive",
+    "description":
+      "All Inclusive vacation where you will be able to spend 15 days on Mars´s surface. You will enjoy the modern accomodations of Aldrin Base, the number 1 hotel on Mars. ",
+    "category": "trips",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1395760/header.jpg?t=1632624560",
+    "passengers": 1
+
+  },
+  {
+    "id": 115,
+    "destiny": "Mars",
+
+    "price": 8000,
+    "offer": "no",
+    "transport": "Ares Premium",
+    "stay": "15 days",
+    "hotel": "Aldrin Base, All Inclusive",
+    "type": "All Inclusive",
+    "description":
+      "All Inclusive vacation where you will be able to spend 15 days on Mars´s surface. You will enjoy the modern accomodations of Aldrin Base, the number 1 hotel on Mars. ",
+    "category": "trips",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1395760/header.jpg?t=1632624560",
+    "passengers": 1
+
+  },
+  {
+    "id": 116,
+    "destiny": "Mars",
+
+    "price": 8000,
+    "offer": "no",
+    "transport": "Ares Premium",
+    "stay": "15 days",
+    "hotel": "Aldrin Base, All Inclusive",
+    "type": "All Inclusive",
+    "description":
+      "All Inclusive vacation where you will be able to spend 15 days on Mars´s surface. You will enjoy the modern accomodations of Aldrin Base, the number 1 hotel on Mars. ",
+    "category": "trips",
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1395760/header.jpg?t=1632624560",
+    "passengers": 1
+
+  }

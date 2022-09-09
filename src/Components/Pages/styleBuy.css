@@ -1,0 +1,41 @@
+.buy-container{
+    text-align: center;
+    margin-top: 80px;
+  
+}
+.buy-form input{
+    display: block;
+    width: 40vw;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.buy-form{
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+   
+   
+   
+}
+
+.buy-form-container{
+    margin-top: 100px;
+    background-color: rgb(51, 49, 49);
+    border-radius: 30px;
+    color: white;
+    padding: 10px;
+    border: 1px solid #0755a3 ; 
+}
+
+.buy-container h4{
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width: 800px) {
+
+    .buy-form{
+        font-size: small;
+    }
+}
